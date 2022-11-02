@@ -1,3 +1,3 @@
-## Idea
+## Birthday Reminder Solution
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[Click Me..!](https://birthday-reminder-solution.netlify.app/)
